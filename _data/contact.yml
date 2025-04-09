@@ -6,13 +6,13 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: Xing
-  icon: 'fab fa-xing'       # icons powered by <https://fontawesome.com/>
-  url:  'https://www.xing.com/profiles/Mathias_Neuhaus/'          # Fill with your Xing homepage
-
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/mathias-neuhaus-ba942663/'   # Fill with your Linkedin homepage
+
+- type: Xing
+  icon: 'fab fa-xing'       # icons powered by <https://fontawesome.com/>
+  url:  'https://www.xing.com/profiles/Mathias_Neuhaus/'          # Fill with your Xing homepage
 
 # - type: email
 #   icon: "fas fa-envelope"
